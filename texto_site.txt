@@ -1,0 +1,19 @@
+Perguntas para qualquer projeto que será inserido no meu site portifólio.
+
+PorquÊ foi desenvolvido?
+Para mostrar minhas habilidades não só com palavras . Quero guardar meus códigos e projetos que fiz e fizer ao longo do tempo.
+
+Qual problema resolveu?
+Problema de falta de organização. Agora tenho tudo armazenado em um só lugar. 
+Para uma entrevista por exemplo posso mandar meu link e pronto, não dependo od meu computador.
+
+Contexto pesquisado?
+apos ver esse vídeo
+https://www.youtube.com/watch?v=gRxqAkWDlmA
+
+
+cores escolhidas 
+
+fontes usadas colocar nome da cor em html #ffffff
+
+

@@ -1,0 +1,110 @@
+body{
+   background:linear-gradient(#CCC274,#7F9587,#313E73,#B56593,#e6b771);
+    
+}
+
+#titulo-principal{
+float: left;
+padding: 30px 3% 7% 5px;
+color: black;
+text-shadow:5px 5px 5px white;
+}
+/* logo da terra  */
+#terra{
+    width: 15%;
+    float: left;
+    width: 90px;
+    margin-top: 20px;
+    
+}
+
+#sobre-mim{
+    width: 50%;
+    margin-bottom: 15px;
+    opacity: 1;
+    transition: 400ms;
+    box-shadow: 5px 20px 50px #000000;
+}
+
+
+#sobre-mim:hover{
+    opacity:0.3;
+}
+/* imagens das tecnologias utilizadas */
+#imghtml{
+    width: 5%;
+}
+
+#imgcss{
+    width: 5%;
+}
+
+#imgjs{
+    width: 5%;
+}
+
+#imgbootstrap{
+    width: 5%;
+}
+
+#imggithub{
+    width: 5%;
+}
+
+#imgfigma{
+    width: 5%;
+}
+
+#imgphotoshop{
+    width: 5%;
+}
+
+#imgadobe{
+    width: 5%;
+}
+
+#imgux{
+    width: 5%;
+}
+
+@media (min-width: 768px){
+        .projetos-responsivo{
+            width: 50%;
+            float: left;
+    }
+}
+
+.portifolio{
+    color: #Ffffff;
+}
+
+#portifolio a:hover {
+
+    text-decoration: none;
+    color: rgb(31, 32, 37);
+}
+
+#contato{
+    text-align: center;  
+}
+
+ul{
+list-style: none;
+display: flex;
+justify-content: space-around;
+margin-top: 50px;
+margin-bottom: 50px;
+
+}
+/* rodape */
+footer{
+    margin-top: 10px;
+    background-color: #Ffffff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    
+}
+
